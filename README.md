@@ -20,4 +20,4 @@ By Robert Maerovitz
 The next major application the Internet of Things that is used in modern medicine is the use of telemedicine. Telemedicine is the exchange of medical information from one place to another using communication technology. Medical doctors use telemedicine to communicate with other doctors, patients, and hospitals. Telemedicine provides seamless communication through TVs and monitors that enable a smooth integration into digital transformation for faster and more accurate results.
 </pre>
 
-[[File:EHR.jpg|thumb]]
+[[Desktop:EHR.jpg|thumb]]
